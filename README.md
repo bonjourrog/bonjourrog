@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="200"/>
+</div>
 ### Hi there 👋
+## I'm Rogelio Beltran, Web developer...
 
 <!--
 **bonjourrog/bonjourrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
